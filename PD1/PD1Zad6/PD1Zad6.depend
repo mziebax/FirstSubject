@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1520286370 source:d:\cpp\pd1zad6\main.cpp
+	<iostream>
+	"Triangle.h"
+	"Point.h"
+
+1520287488 d:\cpp\pd1zad6\include\triangle.h
+	"Point.h"
+
+1520287488 d:\cpp\pd1zad6\include\point.h
+	<cmath>
+
+1520287487 source:d:\cpp\pd1zad6\src\point.cpp
+	"Point.h"
+
+1520287487 source:d:\cpp\pd1zad6\src\triangle.cpp
+	"Triangle.h"
+
