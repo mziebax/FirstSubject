@@ -1,0 +1,10 @@
+To 
+jest 
+tekst 
+ktory 
+ma 
+byc 
+zapisany 
+do 
+pliku 
+b
